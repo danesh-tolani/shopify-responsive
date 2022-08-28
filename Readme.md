@@ -1,4 +1,10 @@
-Hi, my name is **Danesh tolani**, and I have prepared Shopify home page clone using **HTML** and **Tailwind CSS**.
+Hi, my name is **Danesh tolani**, and I have prepared Shopify home page clone.
+
+Technologies Used:
+
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 This is a static webpage with some subtle transition effects like:
 
@@ -10,7 +16,11 @@ This webpage is **Mobile Responsive** as well.
 
 ## Deployed Website
 
-## [Shopify clone](https://shopify-responsive.netlify.app/)
+[![](https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white)](https://shopify-responsive.netlify.app/)
+
+## My Blog on Hashnode:
+
+[![](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://daneshtolani18.hashnode.dev/)
 
 ---
 
